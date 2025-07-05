@@ -1,5 +1,6 @@
-Hi, I'm Miguel!
-I'm a computer science student who is passionate about creating technology that impacts people.
+Hey there! 
+
+I'm Miguel, a Computer Science student focused on developing tech that makes a difference. I love turning ideas into meaningful software.
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
