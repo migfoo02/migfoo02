@@ -1,19 +1,14 @@
-Hey there! 
+### Hi there 👋
 
-I'm Miguel, a Computer Science student focused on developing tech that makes a difference. I love turning ideas into meaningful software.
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**migfoo02/migfoo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### 👨‍💻 About Me :
+- A final year computer science student at the National University of Singapore.
+- Life so far:
+    - **Fullstack Development in NextJS** in an internship with Holicay.
+    - **ML Engineering with Visual Transformers** in a research attachment with NUS.
+- I'm interested in full stack development and regularly document my progress (and non-progress).
+- In my free time, I work on random side projects and play badminton.
+- 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Contact Me / Find out more :
+- 🔷 [LinkedIn](www.linkedin.com/in/miguel-foo)
